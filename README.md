@@ -1,4 +1,4 @@
-# Hello there! (General)
+# Hello there! (General Kenobi)
 - 👋 Hi, name's Janek, but you can also call me **niklos**
 - 👀 Interested in Data Science 🐍
 - 🧮 studying **Applied Computer Science @ JU**
