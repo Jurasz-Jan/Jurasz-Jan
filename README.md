@@ -8,7 +8,7 @@
 
 
 Currently I'm either grinding Leetcode, watching React tutorials, or I'm cooking. 
-If you're reading this, recruiter- I am person that brings cookies to work.
+If you're reading this, recruiter- I am that person that brings cookies to work, hire me.
 <!---
 
 
