@@ -1,5 +1,4 @@
-# Hello there! (General Kenobi) 👋
-- 👋 Hi, name's Janek, but you can also call me **niklos**  
+# Hello there! 👋
 - 💼 **Junior Software Engineer @ Motorola Solutions**  
 - 🧮 On my last year of Master's Degree in **Applied Computer Science @ Jagiellonian University**  
 - 📫 Contact me via **jurasz.jan@gmail.com**  
@@ -14,4 +13,4 @@ Technologies I’ve **worked with professionally** include:
 - ⚛️ **Frontend & Testing:** React, Cypress  
 - 🗄️ **Databases:** MySQL  
 - 🐳 **DevOps & Tools:** Docker, Git, GitHub Workflows, Serverless Framework  
-- ☁️ **Cloud & Serverless:** AWS Lambda, CloudWatch, CloudFormation, Serverless
+- ☁️ **Cloud & Serverless:** AWS Cloud- Lambda, CloudFormation & CDK(IaC), and more
