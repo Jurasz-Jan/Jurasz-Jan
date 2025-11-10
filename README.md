@@ -13,4 +13,4 @@ Technologies I’ve **worked with professionally** include:
 - ⚛️ **Frontend & Testing:** React, Cypress  
 - 🗄️ **Databases:** MySQL  
 - 🐳 **DevOps & Tools:** Docker, Git, GitHub Workflows, Serverless Framework  
-- ☁️ **Cloud & Serverless:** AWS Cloud- Lambda, CloudFormation & CDK(IaC), and more
+- ☁️ **Cloud & Serverless:** AWS Cloud- Lambda, CloudFormation & CDK(IaC), CloudWatch and more
