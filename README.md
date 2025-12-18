@@ -9,7 +9,7 @@
 ## 🛠️ Professional Experience & Skills
 Technologies I’ve **worked with professionally** include:  
 
-- 💻 **Languages:** JavaScript, TypeScript, Python, Bash Scripting  
+- 💻 **Languages:** C++, JavaScript, TypeScript, Python, Bash Scripting  
 - ⚛️ **Frontend & Testing:** React, Cypress  
 - 🗄️ **Databases:** MySQL  
 - 🐳 **DevOps & Tools:** Docker, Git, GitHub Workflows, Serverless Framework  
