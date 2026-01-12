@@ -44,7 +44,7 @@ Junior Software Engineer at **Motorola Solutions** currently completing my Maste
 
 ## 🏢 Professional Experience
 
-**Motorola Solutions** — *Junior Software Engineer*
+**Motorola Solutions**: *Junior Software Engineer*
 - Building production software with C++, React, and AWS Cloud services
 - Infrastructure as Code using CloudFormation & AWS CDK
 - Serverless architecture development with AWS Lambda
@@ -53,6 +53,6 @@ Junior Software Engineer at **Motorola Solutions** currently completing my Maste
 
 <div align="center">
 
-📫 **Open to opportunities** — [jurasz.jan@gmail.com](mailto:jurasz.jan@gmail.com)
+📫 **Open to opportunities**: [jurasz.jan@gmail.com](mailto:jurasz.jan@gmail.com)
 
 </div>
